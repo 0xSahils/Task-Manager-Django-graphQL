@@ -86,3 +86,6 @@ coverage.xml
 
 # Docker
 .dockerignore
+
+# Personal docs (do not commit)
+docs/MY_PROJECT_GUIDE.md
